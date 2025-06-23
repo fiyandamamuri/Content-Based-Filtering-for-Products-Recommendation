@@ -49,7 +49,6 @@ Berikut deskripsi singkat dari masing-masing kolom dalam dataset :
 | `type`           | Jenis atau bentuk produk, seperti "Oil", "Serum", "Tablet", dll.          |
 | `rating`         | Nilai rating dari pengguna, dalam skala 1 sampai 5.                       |
 | `description`    | Deskripsi lengkap produk yang menjelaskan manfaat dan informasi lainnya.|
-|
 
 Informasi umum dataset :
 
@@ -218,6 +217,5 @@ Artinya, sekitar 69% dari total produk berhasil direkomendasikan oleh sistem, me
 |--------|---------------|---------|--------------------------|
 | CBF    | Precision@10  | 0.9988  | Relevansi sangat tinggi  |
 | CBF    | Coverage      | 0.6901  | Cakupan luas dalam item  |
-|
 
 Evaluasi ini menunjukkan bahwa CBF sangat andal untuk rekomendasi berdasarkan kesamaan konten produk.
